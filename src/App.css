@@ -1,0 +1,45 @@
+.container {
+  display: flex; 
+  background-color: #a02b2b;
+}
+
+.column {
+  padding: 10px;
+  border: 1px solid #7afbca;
+}
+
+.left {
+  background-color:#c7faf0; 
+}
+
+.right {
+  background-color:#e2f8f4;
+  
+}
+
+@media (max-width: 600px) {
+  .container {
+    flex-direction: column;
+  }
+}
+
+.grid-container {
+  display: grid;
+  min-height: 100vh;
+  justify-content: center;
+  grid-template-columns: 1fr 4fr; 
+  
+}
+
+.banned-button {
+  font-size: 20px;
+  background: #e0f2fe;
+  border: 2px solid #38bdf8;
+  color: #0369a1;
+  padding: 8px 15px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-weight: 600;
+  margin-bottom: 15px;
+}

@@ -1,0 +1,57 @@
+.discover-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.cat-card {
+  background: rgb(203, 246, 240);
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+  max-width: 800px;
+  margin-top: 50px;
+ 
+}
+
+.cat-image {
+  width: 100%;
+  height: 700px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.attribute-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin: 15px 0;
+}
+
+.attribute-button {
+  background: #e0f2fe;
+  border: 2px solid #38bdf8;
+  color: #0369a1;
+  padding: 8px 15px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+
+.discover-button {
+  background: #74e4bf;
+  color:black;
+  border: none;
+  padding: 12px 30px;
+  font-size: 1.1rem;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-top: 20px;
+  box-shadow: 0 4px 10px rgba(73, 136, 115, 0.3);
+}

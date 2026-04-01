@@ -43,7 +43,7 @@ https://1drv.ms/v/c/e67a689788273250/IQCg6GlKMSoZSpcS8L3qvdMWATbbnbluoNPfHnJ5PsJ
 
 ## Notes
 
-I had such a busy week and so I had less time to dedicate to the app. The only difficulty I encountered was the initial stages of getting the API to communicate with the front end.
+I had such a busy week and so I had less time to dedicate to the app. The only real difficulty I encountered was the initial stages of getting the API to communicate with the front end. Currently, the banned attributes render for around half a second before it realises it is on the banned list and displays a different cat, so I will work on a more effective way to handle that aspect of the app.
 
 ## License
 

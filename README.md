@@ -39,7 +39,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+https://1drv.ms/v/c/e67a689788273250/IQCg6GlKMSoZSpcS8L3qvdMWATbbnbluoNPfHnJ5PsJrD9o?e=lyafmN
 
 ## Notes
 
